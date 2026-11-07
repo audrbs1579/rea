@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Vbh2qYn4dhU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\EL069\\Desktop\\KDT 교육 PM자동 에이전트 사전 자료\\external\\rea\\scripts\\fixtures\\dotnet-bundle\\BundleFixture.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\EL069\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.32\\microsoft.netcore.app.ref.8.0.32.nupkg.sha512",
+    "C:\\Users\\EL069\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.32\\microsoft.windowsdesktop.app.ref.8.0.32.nupkg.sha512",
+    "C:\\Users\\EL069\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.32\\microsoft.aspnetcore.app.ref.8.0.32.nupkg.sha512",
+    "C:\\Users\\EL069\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.32\\microsoft.netcore.app.host.win-x64.8.0.32.nupkg.sha512"
+  ],
+  "logs": []
+}
