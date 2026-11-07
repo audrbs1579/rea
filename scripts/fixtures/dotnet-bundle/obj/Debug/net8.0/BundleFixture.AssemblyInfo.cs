@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BundleFixture")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c928bb8d80bb1c30f2211090ec86dc25eab58ca2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ed6ac0a19920a2b704e9034239b3d0d88a8f8e10")]
 [assembly: System.Reflection.AssemblyProductAttribute("BundleFixture")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BundleFixture")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
